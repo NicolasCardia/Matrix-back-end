@@ -1,4 +1,4 @@
-# Atech Desafio encontrar a área do maior retângulo
+# Atech Desafio encontrar a área do maior retângulo 📏
 
 ## Desafio
 Desenvolva um backend que receba uma matriz binária 2D de tamanho MxN preenchida com “0” (zero) e “1” (um) em JSON, e retorne o valor da área do maior retângulo formado apenas por “1”.
@@ -29,4 +29,4 @@ curl -X POST http://localhost:8080/rectangle -H "Content-Type: application/json"
   ]
 }'
 ```
-* Não esqueça de estar o rodando o projeto para poder testar a api localmente
+* Não esqueça verificar se o projeto está rodando localmente para poder testar a api 😉
